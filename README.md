@@ -51,8 +51,8 @@ All the cells in the notebook can be executed.
 	    * Video - Halfway & End result
 	    * Value function Heatmap
    * **Comparing runtime - DP VS SARSA**
-    * DP - Positive and Negative Rewards – Grid Search
-    * DP - video with best Positive and Negative Rewards locations
+   * **SARSA - Positive and Negative Rewards – Grid Search**
+   * **SARSA - video with best Positive and Negative Rewards locations**
 
 
 
