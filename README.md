@@ -1,58 +1,40 @@
-# RL MIDTERM PROJECT
+# RL FINAL PROJECT
 
 All the cells in the notebook can be executed.
 ## Notebook Structure:
 * Packages Installations 
 * Packages Imports
 * Display utils  - function for creating videos
-* Maze utils – functions to create the maze environment
-* Graph utils – functions to create graphs
-* ### Environment 5X5:
-  * **DP:**
- 	 * Implementation
-	 * Results - value function
+* Models utils – functions to create the maze environment
+* ### EX1 - FIX SCENARIO - PUSH & PULL - ONE BOX:
+  * **Using DDQN**
+ 	 * Training the model
+	 * Success rate, Rewards, and Steps graph
 	 * Video
-	 * Experiments:
-   		1. Setting different  Value function initialization
-* ### Environment 15X15:
-  * **Monte Carlo:**
- 	 * Implementation
-	 * Results - value function
+  * **EX1 - Experiments**
+ 	 * Experiment 1 - Rewards Shaping VS No Rewards Shaping
+ 	 * Experiment 2 - DDQN VS PPO
+* ### EX2 - PUSH & PULL - ONE BOX:
 	 * Video
-	 * Experiments:
-   		1. Decay Vs Non-Decay epsilon
-   		2. Learning rate & Cumulative Reward as function of gamma
-   * **Q-Learning:**
- 	 * Implementation
-	 * Result – Learning rate & Cumulative Reward graph
-	 * Videos  - Halfway & End result
-	 * Experiments:
-   		1. Grid Search for hyper parameters optimization
-   		2. Best models grouped by Alpha Graph
-   		3. Average Steps as function of Alpha
-   		4. Best top models as function of gamma
-   * **SARSA:**
- 	 * Implementation
-	 * Result – Learning rate & Cumulative Reward graph
-	 * Videos  - Halfway & End result
-	 * Experiments:
-   		1. Grid Search for hyper parameters optimization
-   		2. Best models grouped by Alpha Graph
-   		3. Average Steps as function of Alpha
+   * **EX2 - Experiments - DDQN:**
+ 	 * Experiment 1 - Different Enviroment max_steps
+	 * Experiment 2 - Different Reward Shaping
+	 * Experiment 3 - Different Net Architectures
+	 * Experiment 4 - Different batch_size and memory buffer size
+	 * Experiment 5 - Transfer Learning
+	 * Experiment 6 - Network Update frequency
+	 * Experiment 7 - Different Environment Action Spaces
+   * **EX2 - Experiments - PPO::**
+ 	 * Experiment 1 - PPO - Hyper-parameters Grid Search
+	 * Experiment 2 - DDQN vs PPO
   * **Comparison between Q-learning and SARSA**
 	
-* ### Environment 25X25:
-    * **DP:**
-	    * Results
-	    * Video
-	    * Value function Heatmap
-    * **SARSA:**
-	    * Results
-	    * Video - Halfway & End result
-	    * Value function Heatmap
-   * **Comparing runtime - DP VS SARSA**
-   * **SARSA - Positive and Negative Rewards – Grid Search**
-   * **SARSA - video with best Positive and Negative Rewards locations**
+* ### EX1 - Model Evaluataion:
+	    * Upload model weights
+	    * Evaluate model and show video
+* ### EX2 - Model Evaluataion:
+	    * Upload model weights
+	    * Evaluate model and show video
 
 
 
