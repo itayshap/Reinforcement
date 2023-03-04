@@ -24,11 +24,9 @@ All the cells in the notebook can be executed.
 	 * Experiment 5 - Transfer Learning
 	 * Experiment 6 - Network Update frequency
 	 * Experiment 7 - Different Environment Action Spaces
-   * **EX2 - Experiments - PPO::**
+   * **EX2 - Experiments - PPO:**
  	 * Experiment 1 - PPO - Hyper-parameters Grid Search
-	 * Experiment 2 - DDQN vs PPO
-  * **Comparison between Q-learning and SARSA**
-	
+	 * Experiment 2 - DDQN vs PPO	
 * ### EX1 - Model Evaluataion:
 	    * Upload model weights
 	    * Evaluate model and show video
