@@ -28,14 +28,8 @@ All the cells in the notebook can be executed.
  	 * Experiment 1 - PPO - Hyper-parameters Grid Search
 	 * Experiment 2 - DDQN vs PPO	
 * ### EX1 - Model Evaluataion:
-	    * Upload model weights
-	    * Evaluate model and show video
+	 * Upload model weights
+	 * Evaluate model and show video
 * ### EX2 - Model Evaluataion:
-	    * Upload model weights
-	    * Evaluate model and show video
-
-
-
-
-
-
+	 * Upload model weights
+	 * Evaluate model and show video
