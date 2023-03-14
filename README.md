@@ -2,7 +2,7 @@
 # RL FINAL PROJECT
  
 All the cells in the notebook can be executed.
-
+full notebook Running time ~ 18 hours
 ## Notebook Structure:
  - Packages Installations
  - Models weights and explainer.md upload
@@ -46,7 +46,7 @@ All the cells in the notebook can be executed.
 	 - Experiment 4 - PPO - Different net architectures
 
  - Final experiment - DQN vs PPO - DDQN vs PPO
- 
+
 # Test Environment - Evaluation videos
 ### EX1 - Model Evaluataion:
  - Upload model weights
@@ -54,3 +54,4 @@ All the cells in the notebook can be executed.
 ### EX2 - Model Evaluataion:
  - Upload model weights
  - Evaluate model and show video
+
