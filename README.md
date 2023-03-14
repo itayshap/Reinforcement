@@ -10,13 +10,14 @@ All the cells in the notebook can be executed.
   * **Using DDQN**
  	 * Training the model
 	 * Success rate, Rewards, and Steps graph
-	 * Video
+	 * Half-way video
+	 * Training completed video
   * **EX1 - Experiments**
  	 * Experiment 1 - Rewards Shaping VS No Rewards Shaping
  	 * Experiment 2 - DDQN VS PPO
 * ### EX2 - PUSH & PULL - ONE BOX:
 	 * Video
-   * **EX2 - Experiments - DDQN:**
+  * **EX2 - Experiments - DDQN:**
  	 * Experiment 1 - Different Enviroment max_steps
 	 * Experiment 2 - Different Reward Shaping
 	 * Experiment 3 - Different Net Architectures
@@ -24,7 +25,7 @@ All the cells in the notebook can be executed.
 	 * Experiment 5 - Transfer Learning
 	 * Experiment 6 - Network Update frequency
 	 * Experiment 7 - Different Environment Action Spaces
-   * **EX2 - Experiments - PPO:**
+  * **EX2 - Experiments - PPO:**
  	 * Experiment 1 - PPO - Hyper-parameters Grid Search
 	 * Experiment 2 - DDQN vs PPO	
 * ### EX1 - Model Evaluataion:
