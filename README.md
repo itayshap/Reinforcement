@@ -3,7 +3,7 @@
  
 All the cells in the notebook can be executed
 
-full notebook Running time ~ 18 hours
+Full notebook Running time ~ 18 hours
 ## Notebook Structure:
  - Packages Installations
  - Models weights and explainer.md upload
