@@ -48,7 +48,7 @@ Full notebook Running time ~ 18 hours
 
  - Final experiment - DQN vs PPO - DDQN vs PPO
 
-# Test Environment - Evaluation videos
+## Test Environment - Evaluation videos
 ### EX1 - Model Evaluataion:
  - Upload model weights
  - Evaluate model and show video
